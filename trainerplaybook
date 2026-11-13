@@ -1,0 +1,163 @@
+# Backend Training – Trainer Playbook
+
+## 1. Before starting the program
+
+The trainer must:
+
+- Identify all participants.
+- Conduct the initial assessment.
+- Record individual strengths and weaknesses.
+- Create a dedicated training repository.
+- Prepare the development environment.
+- Share the training roadmap and SOP.
+- Establish assignment submission and review procedures.
+
+## 2. How to handle participants with mixed knowledge
+
+Do not teach everyone at the same speed simply because they attend the same session.
+
+Use three learning tracks:
+
+| Track | Approach |
+|---|---|
+| Foundation | Complete explanations, demonstrations and guided exercises |
+| Intermediate | Short explanations and additional implementation exercises |
+| Advanced | Architecture discussions, debugging exercises and more challenging assignments |
+
+All tracks follow the same core curriculum and final assessment.
+
+A participant can move between tracks based on demonstrated competency.
+
+## 3. Trainer preparation checklist
+
+Before every session:
+
+- [ ] Review the session objectives.
+- [ ] Prepare the explanation and examples.
+- [ ] Prepare a working NestJS demonstration.
+- [ ] Prepare the practical exercise.
+- [ ] Identify common mistakes.
+- [ ] Prepare the assignment.
+- [ ] Review previous assignment submissions.
+
+## 4. Session completion checklist
+
+After every session:
+
+- [ ] Mark attendance.
+- [ ] Record the topics covered.
+- [ ] Record questions and knowledge gaps.
+- [ ] Share assignment instructions.
+- [ ] Record assignment submission status.
+- [ ] Provide feedback.
+- [ ] Decide whether revision is necessary.
+
+## 5. Weekly review
+
+At the end of each five sessions:
+
+1. Review completed topics.
+2. Conduct a short knowledge assessment.
+3. Review practical assignments.
+4. Identify participants who need additional guidance.
+5. Decide whether the next module can begin.
+6. Update individual progress.
+
+## 6. Session preparation template
+
+**Session number:**
+
+**Topic:**
+
+**Learning objectives:**
+
+**Prerequisite knowledge:**
+
+**Concepts to explain:**
+
+**Live demonstration:**
+
+**Practical exercise:**
+
+**Assignment:**
+
+**Expected outcome:**
+
+**Common mistakes:**
+
+**Assessment criteria:**
+
+## 7. Training governance
+
+- The trainer owns the learning process.
+- Participants own their assignments and learning progress.
+- Backend reviewers own technical approval.
+- The backend team lead owns final access authorization.
+- Training completion does not automatically grant production access.
+
+---
+
+# Backend Training – Participant Handbook
+
+## 1. Participant expectations
+
+Every participant is expected to:
+
+- Attend scheduled training sessions.
+- Ask questions when concepts are unclear.
+- Complete assigned exercises.
+- Practice independently.
+- Read and follow the backend SOP.
+- Understand the code they submit.
+- Participate in code reviews.
+- Accept and implement technical feedback.
+
+## 2. Learning expectations
+
+Participants should not focus only on memorizing NestJS decorators or commands.
+
+They should understand:
+
+- Why a particular architecture is used.
+- Why a particular database structure is required.
+- How requests travel through the application.
+- Where business logic should be implemented.
+- How errors should be handled.
+- How to protect application data.
+- How to test their implementation.
+
+## 3. Assignment submission requirements
+
+Every assignment should contain:
+
+1. Source code.
+2. Description of implementation.
+3. API endpoints implemented.
+4. Database changes, if applicable.
+5. Tests written.
+6. Instructions to run and verify.
+7. Known limitations.
+
+## 4. Definition of a completed assignment
+
+An assignment is complete only when:
+
+- Requirements are implemented.
+- Code follows the project conventions.
+- Relevant tests pass.
+- The participant can explain the implementation.
+- Reviewer feedback is addressed.
+
+## 5. Learning resources
+
+Use official documentation as the primary reference:
+
+- NestJS: https://docs.nestjs.com/
+- TypeScript: https://www.typescriptlang.org/docs/
+- Node.js: https://nodejs.org/en/learn
+- PostgreSQL: https://www.postgresql.org/docs/
+- Prisma: https://www.prisma.io/docs
+- Jest: https://jestjs.io/docs/getting-started
+- Fastify: https://fastify.dev/docs/latest/
+
+AI tools may be used for learning and assistance, but participants must understand, verify and take responsibility for the code they submit.
